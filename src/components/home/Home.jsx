@@ -145,7 +145,7 @@ const Home = () => {
         <div className="homeCanvasBox">
           <Typography variant="h2">DESIGNER</Typography>
           <Typography variant="h2">DEVELOPER</Typography>
-          <Typography variant="h2">TEACHER</Typography>
+          <Typography variant="h2">FREELANCER</Typography>
           {/* <Typography variant="h2">CONTENT CREATOR</Typography> */}
         </div>
 
@@ -236,7 +236,7 @@ const Home = () => {
             title="course certificate by ineuron"
           />
           <YoutubeCard
-            url="https://drive.google.com/file/d/1_kHFhp8i23EAqMuXBH_YQUBiV2v9HA8-/view?usp=sharing"
+            url="https://drive.google.com/file/d/19IuTkOSG9C5lXpurSgE2JYyOuC295iQu/view?usp=sharing"
             image={resume}
             title="My resume"
           />
