@@ -57,11 +57,11 @@ function Projects() {
     description :"Stay informed with our sleek weather app. Get real-time updates, accurate forecasts, and interactive maps. Plan your day with confidence, whether rain or shine. Simple, intuitive, and always up-to-date. Your go-to companion for weather on the go.",
     technologies :"javascript,css,html,api",
   },{
-    url:"http://www.google.com",
-    projectImage:"https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
-    projectTitle:"Nature app",
-    description :"this is the one of the best app in the world",
-    technologies:"C#,.net,javascript"
+    url:"https://github.com/ankurpysics01/university-management-system.git",
+    projectImage:"https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    projectTitle:"University Management system",
+    description :" Handles faculty details, course assignments, and tracks workload and salary information,Records and manages student information, generating unique IDs,Manages courses, including creation, updates, and deletions,Handles prerequisites, enrollment, and fee tracking, and provides financial reports.",
+    technologies:"C#,.net"
   }];
 
   return (
